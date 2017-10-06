@@ -1,8 +1,7 @@
 package anvita;
 
-//reversing the linked list
+public class ReverseLinked {
 
-class ReverseLinked {
 
  static Node head;
 
@@ -55,6 +54,7 @@ class ReverseLinked {
      list.printList(head);
  }
 }
+
 
 
 
